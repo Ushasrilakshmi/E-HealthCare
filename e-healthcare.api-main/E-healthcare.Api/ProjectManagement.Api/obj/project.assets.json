@@ -7689,11 +7689,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Simplilearn\\1637145790_codesnippet\\e-healthcare.api-main\\E-healthcare.Api\\ProjectManagement.Api\\E-healthcare.Api.csproj",
+      "projectUniqueName": "C:\\E-HealthCare\\e-healthcare.api-main\\E-healthcare.Api\\ProjectManagement.Api\\E-healthcare.Api.csproj",
       "projectName": "E-healthcare.Api",
-      "projectPath": "C:\\Simplilearn\\1637145790_codesnippet\\e-healthcare.api-main\\E-healthcare.Api\\ProjectManagement.Api\\E-healthcare.Api.csproj",
+      "projectPath": "C:\\E-HealthCare\\e-healthcare.api-main\\E-healthcare.Api\\ProjectManagement.Api\\E-healthcare.Api.csproj",
       "packagesPath": "C:\\Users\\nalini_sampathkumar\\.nuget\\packages\\",
-      "outputPath": "C:\\Simplilearn\\1637145790_codesnippet\\e-healthcare.api-main\\E-healthcare.Api\\ProjectManagement.Api\\obj\\",
+      "outputPath": "C:\\E-HealthCare\\e-healthcare.api-main\\E-healthcare.Api\\ProjectManagement.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -7719,14 +7719,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Simplilearn\\1637145790_codesnippet\\e-healthcare.api-main\\E-healthcare.Api\\ProjectManagement.Data.Implementation\\E-healthcare.Data.csproj": {
-              "projectPath": "C:\\Simplilearn\\1637145790_codesnippet\\e-healthcare.api-main\\E-healthcare.Api\\ProjectManagement.Data.Implementation\\E-healthcare.Data.csproj"
+            "C:\\E-HealthCare\\e-healthcare.api-main\\E-healthcare.Api\\ProjectManagement.Data.Implementation\\E-healthcare.Data.csproj": {
+              "projectPath": "C:\\E-HealthCare\\e-healthcare.api-main\\E-healthcare.Api\\ProjectManagement.Data.Implementation\\E-healthcare.Data.csproj"
             },
-            "C:\\Simplilearn\\1637145790_codesnippet\\e-healthcare.api-main\\E-healthcare.Api\\ProjectManagement.Entities\\E-healthcare.Entities.csproj": {
-              "projectPath": "C:\\Simplilearn\\1637145790_codesnippet\\e-healthcare.api-main\\E-healthcare.Api\\ProjectManagement.Entities\\E-healthcare.Entities.csproj"
+            "C:\\E-HealthCare\\e-healthcare.api-main\\E-healthcare.Api\\ProjectManagement.Entities\\E-healthcare.Entities.csproj": {
+              "projectPath": "C:\\E-HealthCare\\e-healthcare.api-main\\E-healthcare.Api\\ProjectManagement.Entities\\E-healthcare.Entities.csproj"
             },
-            "C:\\Simplilearn\\1637145790_codesnippet\\e-healthcare.api-main\\E-healthcare.Api\\ProjectManagement.Shared\\E-healthcare.Shared.csproj": {
-              "projectPath": "C:\\Simplilearn\\1637145790_codesnippet\\e-healthcare.api-main\\E-healthcare.Api\\ProjectManagement.Shared\\E-healthcare.Shared.csproj"
+            "C:\\E-HealthCare\\e-healthcare.api-main\\E-healthcare.Api\\ProjectManagement.Shared\\E-healthcare.Shared.csproj": {
+              "projectPath": "C:\\E-HealthCare\\e-healthcare.api-main\\E-healthcare.Api\\ProjectManagement.Shared\\E-healthcare.Shared.csproj"
             }
           }
         }

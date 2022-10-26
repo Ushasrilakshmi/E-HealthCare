@@ -1,0 +1,10 @@
+C:\E-HealthCare\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Entities\bin\Debug\netstandard2.0\E-healthcare.Entities.deps.json
+C:\E-HealthCare\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Entities\bin\Debug\netstandard2.0\E-healthcare.Entities.dll
+C:\E-HealthCare\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Entities\bin\Debug\netstandard2.0\E-healthcare.Entities.pdb
+C:\E-HealthCare\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Entities\obj\Debug\netstandard2.0\E-healthcare.Entities.csproj.AssemblyReference.cache
+C:\E-HealthCare\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Entities\obj\Debug\netstandard2.0\E-healthcare.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\E-HealthCare\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Entities\obj\Debug\netstandard2.0\E-healthcare.Entities.AssemblyInfoInputs.cache
+C:\E-HealthCare\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Entities\obj\Debug\netstandard2.0\E-healthcare.Entities.AssemblyInfo.cs
+C:\E-HealthCare\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Entities\obj\Debug\netstandard2.0\E-healthcare.Entities.csproj.CoreCompileInputs.cache
+C:\E-HealthCare\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Entities\obj\Debug\netstandard2.0\E-healthcare.Entities.dll
+C:\E-HealthCare\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Entities\obj\Debug\netstandard2.0\E-healthcare.Entities.pdb

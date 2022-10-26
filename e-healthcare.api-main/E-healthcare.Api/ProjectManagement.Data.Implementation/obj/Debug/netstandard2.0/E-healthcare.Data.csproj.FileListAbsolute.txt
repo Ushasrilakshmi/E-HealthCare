@@ -1,0 +1,15 @@
+C:\E-HealthCare\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Data.Implementation\bin\Debug\netstandard2.0\E-healthcare.Data.deps.json
+C:\E-HealthCare\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Data.Implementation\bin\Debug\netstandard2.0\E-healthcare.Data.dll
+C:\E-HealthCare\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Data.Implementation\bin\Debug\netstandard2.0\E-healthcare.Data.pdb
+C:\E-HealthCare\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Data.Implementation\bin\Debug\netstandard2.0\E-healthcare.Entities.dll
+C:\E-HealthCare\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Data.Implementation\bin\Debug\netstandard2.0\E-healthcare.Shared.dll
+C:\E-HealthCare\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Data.Implementation\bin\Debug\netstandard2.0\E-healthcare.Entities.pdb
+C:\E-HealthCare\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Data.Implementation\bin\Debug\netstandard2.0\E-healthcare.Shared.pdb
+C:\E-HealthCare\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Data.Implementation\obj\Debug\netstandard2.0\E-healthcare.Data.csproj.AssemblyReference.cache
+C:\E-HealthCare\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Data.Implementation\obj\Debug\netstandard2.0\E-healthcare.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\E-HealthCare\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Data.Implementation\obj\Debug\netstandard2.0\E-healthcare.Data.AssemblyInfoInputs.cache
+C:\E-HealthCare\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Data.Implementation\obj\Debug\netstandard2.0\E-healthcare.Data.AssemblyInfo.cs
+C:\E-HealthCare\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Data.Implementation\obj\Debug\netstandard2.0\E-healthcare.Data.csproj.CoreCompileInputs.cache
+C:\E-HealthCare\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Data.Implementation\obj\Debug\netstandard2.0\E-healthcare.Data.csproj.CopyComplete
+C:\E-HealthCare\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Data.Implementation\obj\Debug\netstandard2.0\E-healthcare.Data.dll
+C:\E-HealthCare\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Data.Implementation\obj\Debug\netstandard2.0\E-healthcare.Data.pdb

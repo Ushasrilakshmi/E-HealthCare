@@ -1044,11 +1044,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Simplilearn\\1637145790_codesnippet\\e-healthcare.api-main\\E-healthcare.Api\\ProjectManagement.Shared\\E-healthcare.Shared.csproj",
+      "projectUniqueName": "C:\\E-HealthCare\\e-healthcare.api-main\\E-healthcare.Api\\ProjectManagement.Shared\\E-healthcare.Shared.csproj",
       "projectName": "E-healthcare.Shared",
-      "projectPath": "C:\\Simplilearn\\1637145790_codesnippet\\e-healthcare.api-main\\E-healthcare.Api\\ProjectManagement.Shared\\E-healthcare.Shared.csproj",
+      "projectPath": "C:\\E-HealthCare\\e-healthcare.api-main\\E-healthcare.Api\\ProjectManagement.Shared\\E-healthcare.Shared.csproj",
       "packagesPath": "C:\\Users\\nalini_sampathkumar\\.nuget\\packages\\",
-      "outputPath": "C:\\Simplilearn\\1637145790_codesnippet\\e-healthcare.api-main\\E-healthcare.Api\\ProjectManagement.Shared\\obj\\",
+      "outputPath": "C:\\E-HealthCare\\e-healthcare.api-main\\E-healthcare.Api\\ProjectManagement.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

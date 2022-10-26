@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Simplilearn\\1637145790_codesnippet\\e-healthcare.api-main\\E-healthcare.Api\\ProjectManagement.Entities\\E-healthcare.Entities.csproj": {}
+    "C:\\E-HealthCare\\e-healthcare.api-main\\E-healthcare.Api\\ProjectManagement.Entities\\E-healthcare.Entities.csproj": {}
   },
   "projects": {
-    "C:\\Simplilearn\\1637145790_codesnippet\\e-healthcare.api-main\\E-healthcare.Api\\ProjectManagement.Entities\\E-healthcare.Entities.csproj": {
+    "C:\\E-HealthCare\\e-healthcare.api-main\\E-healthcare.Api\\ProjectManagement.Entities\\E-healthcare.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Simplilearn\\1637145790_codesnippet\\e-healthcare.api-main\\E-healthcare.Api\\ProjectManagement.Entities\\E-healthcare.Entities.csproj",
+        "projectUniqueName": "C:\\E-HealthCare\\e-healthcare.api-main\\E-healthcare.Api\\ProjectManagement.Entities\\E-healthcare.Entities.csproj",
         "projectName": "E-healthcare.Entities",
-        "projectPath": "C:\\Simplilearn\\1637145790_codesnippet\\e-healthcare.api-main\\E-healthcare.Api\\ProjectManagement.Entities\\E-healthcare.Entities.csproj",
+        "projectPath": "C:\\E-HealthCare\\e-healthcare.api-main\\E-healthcare.Api\\ProjectManagement.Entities\\E-healthcare.Entities.csproj",
         "packagesPath": "C:\\Users\\nalini_sampathkumar\\.nuget\\packages\\",
-        "outputPath": "C:\\Simplilearn\\1637145790_codesnippet\\e-healthcare.api-main\\E-healthcare.Api\\ProjectManagement.Entities\\obj\\",
+        "outputPath": "C:\\E-HealthCare\\e-healthcare.api-main\\E-healthcare.Api\\ProjectManagement.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
